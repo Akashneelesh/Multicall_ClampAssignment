@@ -16,7 +16,6 @@ npm install
 npx hardhat compile
 npx hardhat test
 ```
-Project Presentation video link : https://www.linkedin.com/posts/akash-balasubramani-78888a205_blockchain-fvm-spacewarp-activity-7028614912490831872-Qgui?utm_source=share&utm_medium=member_desktop
 
 ps: Instead of creating a .env file I have placed my ethereum mainnets Https key on to the hardhat.config file
 
